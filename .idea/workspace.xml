@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f4d6d2f-3247-4ea6-80e1-29c961e4ee39" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/lib/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/lib/axios.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +79,7 @@
       <workItem from="1754975548590" duration="615000" />
       <workItem from="1756823516701" duration="908000" />
       <workItem from="1756824779548" duration="842000" />
-      <workItem from="1756825679999" duration="2827000" />
+      <workItem from="1756825679999" duration="3587000" />
     </task>
     <servers />
   </component>
